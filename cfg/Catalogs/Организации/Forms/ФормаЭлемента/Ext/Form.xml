@@ -27,7 +27,16 @@
 			<CheckBoxType>Auto</CheckBoxType>
 			<ContextMenu name="ВалютныйУчет_КонтекстноеМеню" id="6"/>
 			<ExtendedTooltip name="ВалютныйУчетExtendedTooltip" id="9"/>
+			<Events>
+				<Event name="OnChange">ВалютныйУчетПриИзменении</Event>
+			</Events>
 		</CheckBoxField>
+		<InputField name="ОсновнаяВалютаУчета" id="10">
+			<DataPath>Объект.ОсновнаяВалютаУчета</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ОсновнаяВалютаУчетаКонтекстноеМеню" id="11"/>
+			<ExtendedTooltip name="ОсновнаяВалютаУчетаРасширеннаяПодсказка" id="12"/>
+		</InputField>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
