@@ -481,6 +481,7 @@
 			<Constant>ТолькоЗащищеннаяАутентификацияPOP3</Constant>
 			<Constant>ТолькоЗащищеннаяАутентификацияSMTP</Constant>
 			<Constant>УчетПоСкладам</Constant>
+			<Constant>ОсновнаяВалютаВзаиморасчетов</Constant>
 			<CommonForm>ОбщиеНастройки</CommonForm>
 			<CommonForm>НастройкиМобильногоУстройства</CommonForm>
 			<CommonForm>НастройкаПочты</CommonForm>
