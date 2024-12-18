@@ -482,6 +482,7 @@
 			<Constant>ТолькоЗащищеннаяАутентификацияSMTP</Constant>
 			<Constant>УчетПоСкладам</Constant>
 			<Constant>ОсновнаяВалютаВзаиморасчетов</Constant>
+			<Constant>БазоваяЕдиницаИзмерения</Constant>
 			<CommonForm>ОбщиеНастройки</CommonForm>
 			<CommonForm>НастройкиМобильногоУстройства</CommonForm>
 			<CommonForm>НастройкаПочты</CommonForm>
