@@ -41,6 +41,19 @@
 			<ContextMenu name="ПоставщикКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="ПоставщикExtendedTooltip" id="21"/>
 		</InputField>
+		<InputField name="Договор" id="26">
+			<DataPath>Объект.Договор</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ChoiceParameterLinks>
+				<xr:Link>
+					<xr:Name>Отбор.Владелец</xr:Name>
+					<xr:DataPath xsi:type="xs:string">Объект.Поставщик</xr:DataPath>
+					<xr:ValueChange>Clear</xr:ValueChange>
+				</xr:Link>
+			</ChoiceParameterLinks>
+			<ContextMenu name="ДоговорКонтекстноеМеню" id="27"/>
+			<ExtendedTooltip name="ДоговорРасширеннаяПодсказка" id="28"/>
+		</InputField>
 		<InputField name="РасчетныйСчетПоставщика" id="5">
 			<DataPath>Объект.РасчетныйСчетПоставщика</DataPath>
 			<FooterHorizontalAlign>Left</FooterHorizontalAlign>
