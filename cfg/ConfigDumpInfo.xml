@@ -646,8 +646,8 @@
 			<Metadata name="Document.ПоступлениеДенег.Attribute.Договор" id="ce9662d6-c434-4938-b23c-6bc7e4353a03"/>
 			<Metadata name="Document.ПоступлениеДенег.Attribute.РасчетныйСчетПокупателя" id="eee0660d-aea1-41b6-84d3-eeb0db70a9c1"/>
 		</Metadata>
-		<Metadata name="Document.ПоступлениеДенег.Form.ФормаДокумента" id="0c5d1b45-8b7d-413e-ab11-f0192f59101c" configVersion="b203f13ca97bd149b667b044e864035400000000"/>
-		<Metadata name="Document.ПоступлениеДенег.Form.ФормаДокумента.Form" id="0c5d1b45-8b7d-413e-ab11-f0192f59101c.0" configVersion="2a5e2e2e351a7543a99b0263af65e97700000000"/>
+		<Metadata name="Document.ПоступлениеДенег.Form.ФормаДокумента" id="0c5d1b45-8b7d-413e-ab11-f0192f59101c" configVersion="f1a571dc763d6b4c881d2f5b83dda77000000000"/>
+		<Metadata name="Document.ПоступлениеДенег.Form.ФормаДокумента.Form" id="0c5d1b45-8b7d-413e-ab11-f0192f59101c.0" configVersion="09a1a8340fd1cd43b7cc70ea1c4d003100000000"/>
 		<Metadata name="Document.ПоступлениеДенег.Help" id="fd455a27-23d6-458c-827d-779819b10f57.1" configVersion="5124eeeff918ac4f84e8bdc92f28279600000000"/>
 		<Metadata name="Document.ПоступлениеДенег.ObjectModule" id="fd455a27-23d6-458c-827d-779819b10f57.0" configVersion="f688a64074f3e04ab0f06276ac6d4ee400000000"/>
 		<Metadata name="Document.ПриходТовара" id="465028ef-ab50-4508-b3ba-c29202551673" configVersion="38cd77095b07724a8204bd5454f1d21600000000">
