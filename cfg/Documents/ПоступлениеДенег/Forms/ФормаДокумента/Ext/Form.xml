@@ -10,6 +10,12 @@
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 	</Events>
 	<ChildItems>
+		<InputField name="Договор" id="26">
+			<DataPath>Объект.Договор</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ДоговорКонтекстноеМеню" id="27"/>
+			<ExtendedTooltip name="ДоговорРасширеннаяПодсказка" id="28"/>
+		</InputField>
 		<InputField name="Организация" id="16">
 			<DataPath>Объект.Организация</DataPath>
 			<Wrap>false</Wrap>
