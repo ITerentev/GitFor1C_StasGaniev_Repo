@@ -175,6 +175,13 @@
 								<Event name="OnChange">ТоварыКоличествоПриИзменении</Event>
 							</Events>
 						</InputField>
+						<InputField name="ТоварыЕдиницаИзмерения" id="68">
+							<DataPath>Объект.Товары.ЕдиницаИзмерения</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ТоварыЕдиницаИзмеренияКонтекстноеМеню" id="69"/>
+							<ExtendedTooltip name="ТоварыЕдиницаИзмеренияРасширеннаяПодсказка" id="70"/>
+						</InputField>
 						<InputField name="ТоварыСумма" id="14" DisplayImportance="High">
 							<DataPath>Объект.Товары.Сумма</DataPath>
 							<EditMode>EnterOnInput</EditMode>
