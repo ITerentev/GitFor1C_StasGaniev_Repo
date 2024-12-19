@@ -637,12 +637,13 @@
 		<Metadata name="Document.Оплата.Form.ФормаДокумента.Form" id="86a4f443-b90a-4c6d-a224-cba9bf2a547d.0" configVersion="fa3dbd9eea33cb40bd8bb6ba66b162ac00000000"/>
 		<Metadata name="Document.Оплата.Help" id="6909b902-801b-49e1-87aa-a0910e500953.1" configVersion="c4a7fdb7cb8e7748873c359863c77db700000000"/>
 		<Metadata name="Document.Оплата.ObjectModule" id="6909b902-801b-49e1-87aa-a0910e500953.0" configVersion="ff3835497d281a4ba641a150f70fc16f00000000"/>
-		<Metadata name="Document.ПоступлениеДенег" id="fd455a27-23d6-458c-827d-779819b10f57" configVersion="e7f45381632280419ccd671e09b7342400000000">
+		<Metadata name="Document.ПоступлениеДенег" id="fd455a27-23d6-458c-827d-779819b10f57" configVersion="21d75ec2deb6f24f8ba14ed68411422e00000000">
 			<Metadata name="Document.ПоступлениеДенег.Attribute.РасчетныйСчет" id="1f6d6046-8499-4780-887a-7103ff0b7a91"/>
 			<Metadata name="Document.ПоступлениеДенег.Attribute.Покупатель" id="2c6b8c3c-2545-4118-823e-80f10ca8119f"/>
 			<Metadata name="Document.ПоступлениеДенег.Attribute.Сумма" id="4cbc7bfd-b1ae-4101-af5b-8427df8a387c"/>
 			<Metadata name="Document.ПоступлениеДенег.Attribute.Организация" id="527459d5-1705-4bac-878f-61648b3ff08f"/>
 			<Metadata name="Document.ПоступлениеДенег.Attribute.Валюта" id="b634cc7c-d8f5-46ea-bc19-0d2313390961"/>
+			<Metadata name="Document.ПоступлениеДенег.Attribute.Договор" id="ce9662d6-c434-4938-b23c-6bc7e4353a03"/>
 			<Metadata name="Document.ПоступлениеДенег.Attribute.РасчетныйСчетПокупателя" id="eee0660d-aea1-41b6-84d3-eeb0db70a9c1"/>
 		</Metadata>
 		<Metadata name="Document.ПоступлениеДенег.Form.ФормаДокумента" id="0c5d1b45-8b7d-413e-ab11-f0192f59101c" configVersion="495d4946321a68449610549cf2b6752700000000"/>
