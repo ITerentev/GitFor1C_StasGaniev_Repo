@@ -147,6 +147,12 @@
 							<ContextMenu name="ВалютаКонтекстноеМеню" id="27"/>
 							<ExtendedTooltip name="ВалютаExtendedTooltip" id="63"/>
 						</InputField>
+						<InputField name="ЕдиницаИзмерения" id="87">
+							<DataPath>Объект.ЕдиницаИзмерения</DataPath>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ЕдиницаИзмеренияКонтекстноеМеню" id="88"/>
+							<ExtendedTooltip name="ЕдиницаИзмеренияРасширеннаяПодсказка" id="89"/>
+						</InputField>
 					</ChildItems>
 				</UsualGroup>
 			</ChildItems>
