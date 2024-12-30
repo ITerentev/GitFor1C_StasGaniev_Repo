@@ -62,6 +62,12 @@
 			<ContextMenu name="ПоставщикКонтекстноеМеню" id="23"/>
 			<ExtendedTooltip name="ПоставщикExtendedTooltip" id="44"/>
 		</InputField>
+		<InputField name="Договор" id="71">
+			<DataPath>Объект.Договор</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ДоговорКонтекстноеМеню" id="72"/>
+			<ExtendedTooltip name="ДоговорРасширеннаяПодсказка" id="73"/>
+		</InputField>
 		<UsualGroup name="ТоварыГруппа" id="66">
 			<Title>
 				<v8:item>
